@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/home/michael/myandroid/src/android_foo/PhysicaloidLibrary/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/michael/myandroid/src/android_foo/PhysicaloidLibrary/src/androidTest/assets"/></dataSet></merger>

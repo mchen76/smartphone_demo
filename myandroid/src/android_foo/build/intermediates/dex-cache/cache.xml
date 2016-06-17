@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/michael/myandroid/src/android_foo/bar/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/classes-5009d78c0c24e26608b40615b4478d1ae97a5cce.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_server/0.2.1/f96701e8f578b6a4fc538e8a8a6b8f9256fd6718/apache_xmlrpc_server-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f96701e8f578b6a4fc538e8a8a6b8f9256fd6718">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/apache_xmlrpc_server-0.2.1-36d3d38475fba32e81f11477304fd55d58130529.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_client/0.2.1/55f1cf075db9507a26102898e9f146221e4c1aaf/apache_xmlrpc_client-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55f1cf075db9507a26102898e9f146221e4c1aaf">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/apache_xmlrpc_client-0.2.1-c69965fb6ff7adf6147c04e78b32183b64c9db7e.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.1/5708df81cf6dbff545695f0be6380b7bbc85accc/dnsjava-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5708df81cf6dbff545695f0be6380b7bbc85accc">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/dnsjava-2.1.1-dfe77ea1ed006c93550cc6db483674a6c966bcee.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/message_generation/0.2.1/dc3afb66cd5aa168a71bcb63ba89560b197b9300/message_generation-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dc3afb66cd5aa168a71bcb63ba89560b197b9300">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/message_generation-0.2.1-d9f02b45dd876fb9c6e41d9c91d7eaee574622c4.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava_geometry/0.2.1/a31311017f578093eb09216269d0e25b0bd3d81d/rosjava_geometry-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a31311017f578093eb09216269d0e25b0bd3d81d">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/rosjava_geometry-0.2.1-24559b28bcb8a901eb8a2eaa257338b83d588d0a.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.5.2.Final/e6fb74a0699abe108969b2ec1f269391169a0426/netty-3.5.2.Final.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e6fb74a0699abe108969b2ec1f269391169a0426">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/netty-3.5.2.Final-a34b0b758cd0a144bf4914ab3f643f235b1d946a.jar" />
+    </item>
+    <item
+        jar="/home/michael/myandroid/src/android_foo/bar/build/intermediates/exploded-aar/com.github.rosjava.android_foo/PhysicaloidLibrary/0.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3a6c54a883eeb721568bde2648e931eac65dedf">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/classes-ef7b2b07ffa4ba19ffc5090e52ce8a8ad444a531.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosgraph_msgs/1.11.1/e3d30a4a74f6282d014f7fd9828f5131bb3a9915/rosgraph_msgs-1.11.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d30a4a74f6282d014f7fd9828f5131bb3a9915">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/rosgraph_msgs-1.11.1-d2a6e912bc618377cf8e0ff8622859cd094952c1.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/geometry_msgs/1.11.7/bb9ca9051697047f8ebacae69956aa562d43b0e1/geometry_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb9ca9051697047f8ebacae69956aa562d43b0e1">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/geometry_msgs-1.11.7-213ec260193143837d19ebccf9ff4c015533d3ad.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/jsr305-1.3.9-2f6dc1adc5a47e78f6fc1e8efedbb27ddeaa1665.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/visualization_msgs/1.11.7/3a91db88f91333643e2cde4b16e13b9cd46f7700/visualization_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3a91db88f91333643e2cde4b16e13b9cd46f7700">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/visualization_msgs-1.11.7-23daf8a897bf84c194f4f73389fb352d5e47e99a.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/nav_msgs/1.11.7/13b7b4aae1bf791c4f3a3a9ef68e58015cff1152/nav_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="13b7b4aae1bf791c4f3a3a9ef68e58015cff1152">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/nav_msgs-1.11.7-cbc1c27bc792a13fa537784cc962f36a44ca219b.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0/5bc66dd95b79db1e437eb08adba124a3e4088dc0/guava-12.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/guava-12.0-280d4c233b5023a712703d87d9b629ffd4077506.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_common/0.2.1/a956178368232d0a9fccf501a8c91aacf2ac0256/apache_xmlrpc_common-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a956178368232d0a9fccf501a8c91aacf2ac0256">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/apache_xmlrpc_common-0.2.1-7df79fc2de2d32d367cf1e1abfefe72f81604040.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-1cd1039154f1bb9cc0d4a9da3e8b7ec509fd8b06.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.net/2.0.0/3e78766072ff5a5cf3f5431d973c430c94ec612/com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.net-2.0.0-bd7719878a2081512bb6bbaf74e2284b754b2fdd.jar" />
+    </item>
+    <item
+        jar="/home/michael/myandroid/src/android_foo/bar/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-725b26917732bc623329b9ab72bc3127b8a7bf8a.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.io/1.4.0/51097cd000ec88214ff181c9f059947de1cf4a35/com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.io-1.4.0-d7d88300abfe1bdb13509f6fa0599685058d6a3d.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.codec/1.3.0/f8690570eb0913d750262bb4223eed30b0d619ed/com.springsource.org.apache.commons.codec-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8690570eb0913d750262bb4223eed30b0d619ed">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.codec-1.3.0-bf08b632aed9c8c0caf8796f707133e0ae286bbe.jar" />
+    </item>
+    <item
+        jar="/home/michael/myandroid/src/android_foo/bar/build/intermediates/exploded-aar/com.github.rosjava.android_foo/PhysicaloidLibrary/0.1.0/libs/d2xx.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/d2xx-6fbbc00498c0e04de745d458beb14608a8b34559.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.apache.ws.commons/ws-commons-util/1.0.1/126e80ff798fece634bc94e61f8be8a8da00be60/ws-commons-util-1.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/ws-commons-util-1.0.1-0cdbdccb40cdcfa21d01030e2ad88083170f1d49.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava/0.2.1/68face01dcd34ac0dd82fc3745afd764d330b427/rosjava-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68face01dcd34ac0dd82fc3745afd764d330b427">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/rosjava-0.2.1-e1be6606bfe170e3594c4c4617d3d400a0d8052e.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/std_msgs/0.5.9/68490f8a983f5415bb95ebf93010c347c4fd20d8/std_msgs-0.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68490f8a983f5415bb95ebf93010c347c4fd20d8">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/std_msgs-0.5.9-130aba40ada2daf0d62fb6914cd46504817c4b7a.jar" />
+    </item>
+    <item
+        jar="/home/michael/myandroid/src/android_foo/bar/build/intermediates/exploded-aar/org.ros.android_core/android_acm_serial/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d675dc619166600074be0d3d52959618640f277c">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/classes-ba631f33dc40adf9d6e685e62b259b5f860d2459.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/gradle_plugins/0.2.1/33c05915db7ef72ac3978d33b16abd1b4b06fec9/gradle_plugins-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="33c05915db7ef72ac3978d33b16abd1b4b06fec9">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/gradle_plugins-0.2.1-4de886eb4c8dcf1b08d169257cedaf6583fb7669.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/tf2_msgs/0.5.9/b2fea11356b0f4ce744f30ac76e987b531b6028e/tf2_msgs-0.5.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2fea11356b0f4ce744f30ac76e987b531b6028e">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/tf2_msgs-0.5.9-4d38d64f4df7b651bd7f9be002f2d02a735e3069.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/7657caf2c78e1d79c74d36f2ae128a115f7cc180/com.springsource.org.apache.commons.logging-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7657caf2c78e1d79c74d36f2ae128a115f7cc180">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.logging-1.1.1-c48119964a55a40491bd7760a604bc1b6928795d.jar" />
+    </item>
+    <item
+        jar="/home/michael/myandroid/src/android_foo/bar/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c3a30924c3f64ed4870fa76411f01ae2be62abcc">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/classes-252a37814503c9adaff02db5cf86b9a46f203a34.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.lang/2.4.0/686e3713650c8e3a5d98723b4d3e239586bf9822/com.springsource.org.apache.commons.lang-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686e3713650c8e3a5d98723b4d3e239586bf9822">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.lang-2.4.0-d570f56aa8cbc9e059b05d00ac7c55c06d29aee4.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/actionlib_msgs/1.11.7/9ec983bb2eaaa20552edeb3544e04a45308fe71b/actionlib_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9ec983bb2eaaa20552edeb3544e04a45308fe71b">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/actionlib_msgs-1.11.7-3d9ab2b0cb3adc33292ba79ab9f08b3f5ba8848b.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/sensor_msgs/1.11.7/5f0b7ac0b5d341b9b37f408ab45c4a2e4c80068e/sensor_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5f0b7ac0b5d341b9b37f408ab45c4a2e4c80068e">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/sensor_msgs-1.11.7-a2c2c548ce3b3d7e0ace581cc7514dc344d54951.jar" />
+    </item>
+    <item
+        jar="/home/michael/myandroid/src/android_foo/bar/build/intermediates/exploded-aar/org.ros.android_core/android_15/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e6d5fabcb9dfff241dfdfbb0fc835fbc3a7f9ca9">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/classes-392a4406afd7089f48cddb107f83ee2683b22907.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.6/4572d589699f09d866a226a14b7f4323c6d8f040/commons-pool-1.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/commons-pool-1.6-618e078cd9ab5182bf5cae9a53c7d90557b7a1c6.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/diagnostic_msgs/1.11.7/119c52755000fa22288dd666c4185f54ca737410/diagnostic_msgs-1.11.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="119c52755000fa22288dd666c4185f54ca737410">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/diagnostic_msgs-1.11.7-fd3259e2c65d939305f25420d21dac1a4d4a5055.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/c493a925a091ac3d8f449d9265fe12482dabb2a7/com.springsource.org.apache.commons.httpclient-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c493a925a091ac3d8f449d9265fe12482dabb2a7">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.httpclient-3.1.0-9d7fec659013bc6a3bfcf1ba47652871081ff536.jar" />
+    </item>
+    <item
+        jar="/home/michael/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosjava_test_msgs/0.2.1/e10783e01c21cbe271aa6062c87f20d11c6053f0/rosjava_test_msgs-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e10783e01c21cbe271aa6062c87f20d11c6053f0">
+        <dex dex="/home/michael/myandroid/src/android_foo/bar/build/intermediates/pre-dexed/debug/rosjava_test_msgs-0.2.1-7f686036171dea69bfe295ee8aea38bd3fe7448f.jar" />
+    </item>
+
+</items>

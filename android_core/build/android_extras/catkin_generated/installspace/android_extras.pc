@@ -1,0 +1,8 @@
+prefix=/home/michael/android_core/install
+
+Name: android_extras
+Description: Description of android_extras
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/michael/android_core/install/lib 
+Requires: 

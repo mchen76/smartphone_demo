@@ -1,0 +1,2 @@
+android_core:android_extras
+-DCATKIN_DEVEL_PREFIX=/home/michael/android_core/devel -DCMAKE_INSTALL_PREFIX=/home/michael/android_core/install -G Unix Makefiles

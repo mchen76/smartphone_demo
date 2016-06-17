@@ -1,0 +1,8 @@
+prefix=/home/michael/myandroid/install
+
+Name: android_foo
+Description: Description of android_foo
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/michael/myandroid/install/lib 
+Requires: 

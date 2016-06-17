@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+5a71537432d3256df6bda4ba6a639c9c CMakeFiles/clean_test_results
+4354ba7cd1ec514c060cd9e552bbd139 android_foo/CMakeFiles/gradle-android_foo
+18c8afd31d40878ef19680364c6b639e android_foo/CMakeFiles/gradle-clean-android_foo
